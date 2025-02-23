@@ -1,0 +1,4 @@
+El objetivo de la practica de git
+es mostar los conocimiento adquirido en la clase
+donde se vieron diversos temas tales como:
+que es git y como funciona, como inicialiar un reposito git entre otras cosas

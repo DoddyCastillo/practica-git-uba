@@ -1,0 +1,5 @@
+Por ello nace la necesidad de esta practica para 
+repasar todo los comandos aprendidos en clase
+como git init, git status, git add, git commit
+git checkout, git branch 
+Tambien se aprendir como crear repositorios remotos
