@@ -3,3 +3,4 @@ repasar todo los comandos aprendidos en clase
 como git init, git status, git add, git commit
 git checkout, git branch 
 Tambien se aprendir como crear repositorios remotos
+se agregar la linea 6
